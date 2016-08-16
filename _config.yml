@@ -2,6 +2,7 @@ name: SEBS
 favicon: null
 layout_spectrum: 0.6885047040414065
 typography_spectrum: 0.7778413880150765
+title: SEBS
 cta:
   domain: null
   bucket: null
